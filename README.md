@@ -1,5 +1,3 @@
-# Write me a readme that will explain the project
-
 # OCR Azure and ChatGPT POC
 
 This project is a proof of concept to demonstrate the integration of Azure OCR and ChatGPT to extract text from images and generate a summary of the extracted text.
