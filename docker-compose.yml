@@ -1,0 +1,10 @@
+services:
+  ocr-poc-service:
+    build: .
+    env_file:
+      - .env
+    container_name: ocr-poc-service
+    volumes:
+      - .:/code
+    ports:
+      - "5005:5005"
